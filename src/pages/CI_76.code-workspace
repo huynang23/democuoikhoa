@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../C4E_129"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CI_76"
+	}
+}
